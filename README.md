@@ -1,1 +1,0 @@
-# TSF-GRIP-IoT-ComputerVision
