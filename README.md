@@ -2,8 +2,6 @@
 
 
 <h2> Computer Vision and IOT Internship Projects </h2>
-<img src="![image](https://user-images.githubusercontent.com/93007427/165226013-7904757e-93fa-4d74-a46b-8ab57a70a9fe.png)
-" alt="">
 
 <ol>
   <li> Optical Character Recognition (OCR) </li>
