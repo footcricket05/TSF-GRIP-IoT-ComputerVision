@@ -2,6 +2,8 @@
 
 
 <h2> Computer Vision and IOT Internship Projects </h2>
+![image](https://user-images.githubusercontent.com/93007427/165225295-126019cd-521f-49d0-a1b4-1d72ca37674d.png)
+
 <ol>
   <li> Optical Character Recognition (OCR) </li>
   <p><a href="https://github.com/footcricket05/TSF-GRIP-IoT-ComputerVision/blob/main/Task-1%20Optical%20Character%20Recognition%20(OCR)/Task-1%20OCR%20(TSF).ipynb">code</a></p>
