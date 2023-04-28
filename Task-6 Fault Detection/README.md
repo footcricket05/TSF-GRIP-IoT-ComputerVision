@@ -20,7 +20,7 @@ The approach used to detect faults in industrial machinery involves the followin
 4. Test the classifier on a separate set of images and evaluate its performance using metrics such as accuracy, precision, recall, and F1 score.
 
 ## Results
-The performance of the fault detection system was evaluated using a test set of images that were not used during training. The system achieved an accuracy of 95%, a precision of 95%, a recall of 95%, and an F1 score of 95%.
+The approach was successful in detecting and localizing faults in the steel surface with high precision. The output images clearly show the location and extent of the detected faults, which can be used for further analysis and decision-making. The use of transfer learning and fine-tuning of the pre-trained VGG16 model provided good performance and reduced the time and resources required for training. Overall, the approach shows promise for industrial fault detection applications.
 
-33 Conclusion
+## Conclusion
 The computer vision system developed in this project can be used to detect faults in industrial machinery with high accuracy. The system can be integrated with a larger system for real-time monitoring of industrial machinery and early detection of faults, which can prevent downtime and save costs.
