@@ -6,14 +6,18 @@ This project is a part of the Graduate Rotational Internship Program (GRIP) by T
 
 ## Technologies Used
 1. Python 3
+
 2. OpenCV
+
 3. Tesseract OCR Engine
 
 
 ## Installation
-Clone this repository using `git clone https://github.com/footcricket05/TSF-GRIP-IoT-ComputerVision.git`
-Install the required libraries using `pip install -r requirements.txt`
-Download and install Tesseract OCR Engine from https://github.com/UB-Mannheim/tesseract/wiki
+1. Clone this repository using `git clone https://github.com/footcricket05/TSF-GRIP-IoT-ComputerVision.git`
+
+2. Install the required libraries using `pip install -r requirements.txt`
+
+3. Download and install Tesseract OCR Engine from https://github.com/UB-Mannheim/tesseract/wiki
 
 
 ## Usage
