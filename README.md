@@ -1,7 +1,7 @@
-<h1 align=center>Sparks-Foundation-Internship</h1>
+# Sparks-Foundation-Internship
 
 
-<h2> Computer Vision and IoT Internship Projects </h2>
+## Computer Vision and IoT Internship Projects 
 
 
 This repository contains the code for the projects completed during the Data Science Internship at InfoPillar Solutions. The projects are:
