@@ -1,10 +1,10 @@
-# Sparks-Foundation-Internship
+# Sparks Foundation Internship
 
 
 ## Computer Vision and IoT Internship Projects 
 
 
-This repository contains the code for the projects completed during the Data Science Internship at InfoPillar Solutions. The projects are:
+This repository contains the code for the projects completed during the Computer Vision and IoT Internship at The Sparks Foundation. The projects are:
 <ol>
   <li> Optical Character Recognition (OCR) </li>
   <p><a href="https://github.com/footcricket05/TSF-GRIP-IoT-ComputerVision/blob/main/Task-1%20Optical%20Character%20Recognition%20(OCR)/Task-1%20OCR%20(TSF).ipynb">code</a></p>
